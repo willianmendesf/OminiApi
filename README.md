@@ -29,11 +29,6 @@
 * Node 10.21.0 - http://nodejs.org/
 <br><br>
 
-### Install
-
-Clone this repo or download and unzip it.
-
-
 ###  Technologies:
 
 An Simple API Public with NodeJS.
@@ -47,6 +42,11 @@ An Simple API Public with NodeJS.
 - nodemon
 - cors
 - require-dir
+<br><br>
+
+### Install
+
+Clone this repo or download and unzip it.
 <br><br>
 
 ### Quick Start:
