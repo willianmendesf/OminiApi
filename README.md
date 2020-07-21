@@ -36,14 +36,6 @@ Clone this repo or download and unzip it.
 
 ###  Technologies:
 
-- Pug
-- Sass
-- Gulp
-- Babel
-- Javascript
-
-### Features
-
 An Simple API Public with NodeJS.
 - mongoose
 - mongodb
